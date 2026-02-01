@@ -1,0 +1,52 @@
+# WINDOWSIS 11 — Generative Engine Optimization Map
+
+> A General business.
+
+---
+
+## Pages
+
+### Home
+https://windowsis-11-31ea572b.zappy5.app
+
+### About
+https://windowsis-11-31ea572b.zappy5.app/about
+
+### Services
+https://windowsis-11-31ea572b.zappy5.app/services
+
+### Contact
+https://windowsis-11-31ea572b.zappy5.app/contact
+
+## Legal & Policy
+
+### Privacy Policy
+https://windowsis-11-31ea572b.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://windowsis-11-31ea572b.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://windowsis-11-31ea572b.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About WINDOWSIS 11
+WINDOWSIS 11 is a business in the General industry.
+
+## Target Audience
+
+## Industry
+General
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://windowsis-11-31ea572b.zappy5.app/sitemap.xml
+- **Robots.txt**: https://windowsis-11-31ea572b.zappy5.app/robots.txt
